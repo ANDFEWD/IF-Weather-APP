@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/IF-Weather-APP/static/css/main.d1b05096.chunk.css",
+    "main.js": "/IF-Weather-APP/static/js/main.21882afa.chunk.js",
+    "main.js.map": "/IF-Weather-APP/static/js/main.21882afa.chunk.js.map",
+    "runtime-main.js": "/IF-Weather-APP/static/js/runtime-main.2a703517.js",
+    "runtime-main.js.map": "/IF-Weather-APP/static/js/runtime-main.2a703517.js.map",
+    "static/js/2.3e93ceb8.chunk.js": "/IF-Weather-APP/static/js/2.3e93ceb8.chunk.js",
+    "static/js/2.3e93ceb8.chunk.js.map": "/IF-Weather-APP/static/js/2.3e93ceb8.chunk.js.map",
+    "index.html": "/IF-Weather-APP/index.html",
+    "precache-manifest.e8e5a0dbdcdc71d9e171add3ec1b6e80.js": "/IF-Weather-APP/precache-manifest.e8e5a0dbdcdc71d9e171add3ec1b6e80.js",
+    "service-worker.js": "/IF-Weather-APP/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/IF-Weather-APP/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3e93ceb8.chunk.js.LICENSE.txt": "/IF-Weather-APP/static/js/2.3e93ceb8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a703517.js",
+    "static/js/2.3e93ceb8.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.21882afa.chunk.js"
+  ]
+}
